@@ -6,24 +6,21 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#e8ff3f",
+    "primary": "#051b23",
     "light": "#e8ff3f",
-    "dark": "#e8ff3f",
+    "dark": "#051b23",
     "background": {
       "light": "#ffffff",
       "dark": "#051b23"
     }
   },
+  "custom": {
+    "css": "/custom.css"
+  },
   "modeToggle": {
     "default": "light",
     "isHidden": false
   },
-  "topbarLinks": [
-    {
-      "name": "Back to Gauge",
-      "url": "https://app.withgauge.com"
-    }
-  ],
   "topbarCtaButton": {
     "name": "Open Gauge",
     "url": "https://app.withgauge.com",

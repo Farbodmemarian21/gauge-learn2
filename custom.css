@@ -1,0 +1,7 @@
+/* Active nav item — neon yellow background, dark text */
+a[data-active="true"],
+[class*="NavigationItem"][aria-current="page"],
+nav a[aria-current="page"] {
+  background-color: #e8ff3f !important;
+  color: #051b23 !important;
+}
