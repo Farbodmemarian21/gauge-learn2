@@ -6,9 +6,9 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#051b23",
+    "primary": "#92a501",
     "light": "#e8ff3f",
-    "dark": "#051b23",
+    "dark": "#92a501",
     "background": {
       "light": "#ffffff",
       "dark": "#051b23"
@@ -24,6 +24,10 @@
       "url": "https://app.withgauge.com"
     }
   ],
+  "topbarCtaButton": {
+    "name": "Open Gauge",
+    "url": "https://app.withgauge.com"
+  },
   "navigation": [
     {
       "group": "Introduction",
