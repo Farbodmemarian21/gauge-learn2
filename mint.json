@@ -6,9 +6,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373"
+    "primary": "#E8FF3F",
+    "light": "#E8FF3F",
+    "dark": "#051B23",
+    "background": {
+      "dark": "#051B23"
+    }
   },
   "topbarLinks": [
     {
@@ -53,6 +56,8 @@
     }
   ],
   "footerSocials": {
-    "website": "https://withgauge.com"
+    "website": "https://withgauge.com",
+    "twitter": "https://twitter.com/withgauge",
+    "linkedin": "https://linkedin.com/company/withgauge"
   }
 }
