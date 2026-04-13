@@ -1,0 +1,58 @@
+{
+  "name": "Gauge Learn",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "topbarLinks": [
+    {
+      "name": "Back to Gauge",
+      "url": "https://app.withgauge.com"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Introduction",
+      "pages": [
+        "introduction/welcome",
+        "introduction/what-is-aeo",
+        "introduction/core-aeo-metrics"
+      ]
+    },
+    {
+      "group": "Setup",
+      "pages": [
+        "setup/integrations-and-settings"
+      ]
+    },
+    {
+      "group": "Navigating Gauge",
+      "pages": [
+        "navigating/rankings-visibility",
+        "navigating/prompts-citations",
+        "navigating/action-center",
+        "navigating/ask-gauge",
+        "navigating/reddit",
+        "navigating/chatgpt-ads",
+        "navigating/branded-prompts"
+      ]
+    },
+    {
+      "group": "Resources",
+      "pages": [
+        "resources/glossary",
+        "resources/faq",
+        "resources/changelog"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "website": "https://withgauge.com"
+  }
+}
